@@ -3,7 +3,7 @@ import { IoTConfig } from "./model/Config"
 import { Device } from "./model/Device"
 import { Group } from "./model/Group"
 
-declare module 'iotagent-node-lib' {
+declare module 'fiware-iotagent-lib' {
     /**
      * Activates the IoT Agent to start listening for NGSI Calls (acting as a Context Provider). 
      * It also creates the device registry for the IoT Agent (based on the deviceRegistry.type configuration option).

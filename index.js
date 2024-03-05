@@ -1,1 +1,2 @@
-module.exports = require('./lib/fiware-iotagent-lib');
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });

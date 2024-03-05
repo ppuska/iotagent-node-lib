@@ -7,6 +7,7 @@
 /report/
 /.c9revisions/
 /.settings/
+package-lock.json
 
 .settings
 .classpath
