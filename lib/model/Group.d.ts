@@ -26,6 +26,6 @@ export interface Group {
     payloadType?: string
 }
 
-interface GroupCommand implements DeviceCommand { }
+interface GroupCommand extends DeviceCommand { }
 
-interface GroupAttribute implements DeviceAttribute { }
+interface GroupAttribute extends DeviceAttribute { }
